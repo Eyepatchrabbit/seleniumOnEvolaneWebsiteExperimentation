@@ -1,0 +1,3 @@
+26 mei 2017 13:34:55,103 logger:EverythinCorrectInstalled.testXMLLogFourJ[INFO-main] seeing if correctly setup
+26 mei 2017 13:34:55,104 logger:EverythinCorrectInstalled.testXMLLogFourJ[DEBUG-main] second message
+26 mei 2017 13:34:55,104 logger:EverythinCorrectInstalled.testXMLLogFourJ[ERROR-main] an error message

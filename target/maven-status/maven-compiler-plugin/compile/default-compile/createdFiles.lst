@@ -1,0 +1,16 @@
+PageObjects/itoplossingenPages/evolanePillarsPages.class
+PageObjects/ContactPage.class
+PageObjects/itoplossingenPages/platformPage.class
+PageObjects/itoplossingenPages/procesoptimalisatiePage.class
+PageObjects/itoplossingenPages/performantiePage.class
+PageObjects/TopBanner.class
+projectVariables/VariablesContactform.class
+enums/procesoptimalisatiePageExpectedElements.class
+PageObjects/itoplossingenPages/protectiePage.class
+projectFunctions/ProjectFunctions.class
+enums/protectiePageExpectedElements.class
+enums/platformPageExpectedElements.class
+projectVariables/Constants.class
+enums/ContactPageExpetedElements.class
+drivers/DriverSetup.class
+enums/performantiePageExpectedElements.class

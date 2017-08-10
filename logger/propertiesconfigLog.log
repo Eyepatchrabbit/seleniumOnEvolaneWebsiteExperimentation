@@ -1,0 +1,4 @@
+
+26 mei 2017 12:46:30,642 logger:loggersetuptest [INFO-main] seeing if correctly setup
+26 mei 2017 12:46:30,644 logger:loggersetuptest [DEBUG-main] second message
+26 mei 2017 12:46:30,644 logger:loggersetuptest [ERROR-main] an error message
