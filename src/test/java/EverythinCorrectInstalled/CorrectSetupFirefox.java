@@ -19,7 +19,7 @@ public class CorrectSetupFirefox {
 
     @Before
     public void setUp() {
-        FirefoxDriverManager.getInstance().proxy("http://localhost:4444/wd/hub").setup();
+        FirefoxDriverManager.getInstance().setup();
         DesiredCapabilities capabilitiy = DesiredCapabilities.firefox();
         capabilitiy.setCapability(CapabilityType.ACCEPT_INSECURE_CERTS, true);
         this.driver=new FirefoxDriver(capabilitiy);
